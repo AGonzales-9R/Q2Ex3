@@ -1,0 +1,31 @@
+* {
+
+}
+
+/*style for body*/
+body {
+	 background-image: url(https://i.pinimg.com/736x/94/52/79/9452793a72c224d27b3cbb605102e529.jpg);
+	 background-size: 100%;
+	 font-family: "Sour Gummy", serif;
+	 font-optical-sizing: auto;
+ 	 font-weight: <weight>;
+	 font-style: normal;
+	 font-variation-settings:
+     "wdth" 100;
+
+/*style for image*/
+img {
+	width: 100px;
+}
+
+/*style for anchor*/
+a {
+	color: lightcoral;
+}
+
+/*style for footer*/
+.footer {
+	background-color: white;
+	text-align: center;
+	padding: 5px;
+}
